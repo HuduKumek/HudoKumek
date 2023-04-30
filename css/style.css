@@ -1,0 +1,18 @@
+body {
+    background-color: #0f0f0f;
+    color: #c2cac8;
+    margin: 0;
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 20px;
+    font-color: rgb(72, 70, 70);
+  }
+  .title {
+    
+    position: relative;
+    padding-top: 50px;
+  }
+  hr {
+border-color: transparent;
+  }
+  
